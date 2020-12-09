@@ -8,6 +8,9 @@ public class TerminsurancepolicyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TerminsurancepolicyApplication.class, args);
+		
+		
+		
 	}
 
 }
